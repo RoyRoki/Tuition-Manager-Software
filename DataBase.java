@@ -9,7 +9,7 @@ public class DataBase {
             String url = "jdbc:mysql://localhost:3306/";
             String dbname = "TutionData";
             String userName = "root";
-            String passWord = "#@!Roki8653";
+            String passWord = "#@!Roki****";
 
            conn = DriverManager.getConnection(url+dbname, userName, passWord);
         } catch (Exception e) {
